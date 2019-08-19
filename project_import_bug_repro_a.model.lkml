@@ -10,6 +10,8 @@ datagroup: project_import_bug_repro_a_default_datagroup {
 
 persist_with: project_import_bug_repro_a_default_datagroup
 
+explore: users {}
+
 # explore: events {
 #   join: users {
 #     type: left_outer
